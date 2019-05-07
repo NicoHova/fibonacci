@@ -6,7 +6,13 @@ El mismo puede ser descargado del sitio oficial de [Haskell](https://www.haskell
 ## Uso:
 
 ### Si se desea generar toda la sucesion de fibonacci:
-Escribir en el prompt del GHC: "fib" (sin comillas)
+Escribir en el prompt del GHC
+```
+fib
+```
 
 ### Si se desea generar la sucesion de fibonacci hasta cierto valor x (posicion en la sucesion):
-Escribir en el prompt del GHC: "fibonacciHasta x"
+Escribir en el prompt del GHC
+```
+fibonacciHasta x
+```
